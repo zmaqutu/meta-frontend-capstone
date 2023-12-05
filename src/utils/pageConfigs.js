@@ -7,8 +7,8 @@ pageConfigs.set('reservations', {
   path: '/reservations', 
   anchorable: true 
 });
-pageConfigs.set('confirmedBooking', { 
-  name: 'Confirmed Booking', 
+pageConfigs.set('confirmedReservation', { 
+  name: 'Confirmed Reservation', 
   path: '/confirmed-reservation', 
   anchorable: false 
 });
