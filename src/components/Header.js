@@ -1,5 +1,6 @@
 import React from 'react'
 import Link from 'react-router-dom'
+import pageConfigs from '../utils/pageConfigs'
 
 function Header() {
   return (
