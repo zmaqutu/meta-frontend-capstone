@@ -24,13 +24,8 @@ function Header() {
             This is where the link to the reservations page goes
           </Link>
           <Link>
-          <Link>
             This is where the link to the contact page goes
           </Link>
-            This is where the link to the order online goes
-          </Link>
-
-            
         </nav>
     </header>
   )
